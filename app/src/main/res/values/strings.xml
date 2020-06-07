@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImagesCrawling</string>
+    <string name="reFresh_button_name">refresh</string>
+</resources>
